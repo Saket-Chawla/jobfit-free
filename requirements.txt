@@ -3,6 +3,7 @@ langchain
 langchain-community
 langchain-core
 langchain-google-genai
+google-generativeai
 PyPDF2
 python-dotenv
-google-generativeai
+pydantic
