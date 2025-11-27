@@ -2,7 +2,7 @@ import streamlit as st
 import os
 from PyPDF2 import PdfReader
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_core.prompts import PromptTemplate
+from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
 
 # 1. Load the Secure Key
